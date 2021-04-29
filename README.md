@@ -18,5 +18,5 @@ For those of you that don't now the mern stack an explanation of the mern stack 
 
 ## The conclusion
 
-Please stand by for the next big thing
+Please stand by for the next big thing <br>
 Hope you like it
