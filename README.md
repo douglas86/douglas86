@@ -12,4 +12,4 @@ For those of you that don't now the mern stack an explanation of the mern stack 
 
 -   <img height="20px" width="20px" src="guide-dog_1f9ae.png" alt="guide dog">
     I am currently working on something great, hope you like it!!
--
+-   🥷
