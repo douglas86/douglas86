@@ -15,3 +15,8 @@ For those of you that don't now the mern stack an explanation of the mern stack 
 -   😕 Please, feel free to ask whatever tech questions you have, we are all here to learn from one another
 -   ✉️ How to reach me if you get stuck email: douglasmaxton@gmail.com
 -   🔥 Still busy creating my awesome dev portfolio
+
+## The conclusion
+
+Please stand by for the next big thing
+Hope you like it
