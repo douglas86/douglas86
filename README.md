@@ -10,6 +10,6 @@ For those of you that don't now the mern stack an explanation of the mern stack 
 
 ## This is the about me section, the stuff that nobody like to talk about
 
--   <img height="15px" width="15px" src="guide-dog_1f9ae.png" alt="guide dog">
+-   <img height="20px" width="20px" src="guide-dog_1f9ae.png" alt="guide dog">
     I am currently working on something great, hope you like it!!
 -
