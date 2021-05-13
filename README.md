@@ -10,11 +10,13 @@ For those of you that don't now the mern stack an explanation is below
 
 ## This is the about me section, the stuff that nobody like to talk about
 
--   🥷 I am currently working on something great, hope you like it!!
--   🌍 I am currently learning how to create a login system using google login
+-   🥷 I am currently a Freelance web developer by day and a ninja at night!!
+-   🌍 My next big task is to get setup with Amazon Web Server
 -   😕 Please, feel free to ask whatever tech questions you have, we are all here to learn from one another
--   ✉️ How to reach me if you get stuck douglasmaxton@gmail.com
 -   🔥 Still busy creating my awesome dev portfolio
+-   ✉️ How to reach me if you get stuck douglasmaxton@gmail.com
+-   You can have a look at my dev portfolio on the following address:
+    https://master.dx5yzvjaz1wmi.amplifyapp.com/
 
 ## The conclusion
 
